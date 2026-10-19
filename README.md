@@ -33,7 +33,7 @@ registered students, and marks attendance. The teacher can correct mistakes and 
 **1. Get the code.** On this page, click **Code → Download ZIP**, then right-click the zip → **Extract all**.
 Or, with Git:
 ```
-git clone https://github.com/sauravai006-commits/Student-Attendence.git
+git clone https://github.com/sauravh-dev/Student-Attendence.git
 ```
 
 **2. Open a terminal in the project folder.** On Windows, open the folder in File Explorer,
