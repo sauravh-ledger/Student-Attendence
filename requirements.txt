@@ -1,0 +1,5 @@
+opencv-python>=4.8
+streamlit>=1.30
+numpy
+pandas
+pillow

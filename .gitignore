@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Private data - never upload student faces or attendance
+students/*
+!students/.keep
+attendance_records/*
+!attendance_records/.keep
