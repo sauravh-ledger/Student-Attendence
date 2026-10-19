@@ -96,3 +96,7 @@ The `.gitignore` keeps all student photos and attendance records out of GitHub.
 ## Built with
 
 Python · OpenCV (YuNet + SFace models from [OpenCV Zoo](https://github.com/opencv/opencv_zoo)) · Streamlit · NumPy · pandas
+
+## License
+
+MIT. See [LICENSE](LICENSE). The YuNet and SFace models are from OpenCV Zoo and keep their own licenses.
